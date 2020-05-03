@@ -1,0 +1,85 @@
+
+{
+    "ShoppingListItems" :[
+        {
+           "SerialNumber": 1,
+           "Name": "Oranges",
+           "Quantity": 1,
+           "Unit" :  "1kg",
+           "Department" : "Fruits",
+           "Notes" : "0"
+        },
+          {
+            "SerialNumber": 2,
+            "Name": "Rice",
+            "Quantity": 1,
+            "Unit" :  "1kg",
+            "Department" : "Cereals",
+            "Notes" : "Mattarice"
+          },
+          {
+            "SerialNumber": 3,
+            "Name": "Castor oil",
+            "Quantity": 1,
+            "Unit" :  "50ml",
+            "Department" : "Oils",
+            "Notes" : "0"
+          },
+          {
+            "SerialNumber": 4,
+            "Name": "Black Pepper",
+            "Quantity": 1,
+            "Unit" :  "100gm",
+            "Department" : "Spices",
+            "Notes" : "0"
+          },
+          {
+          "SerialNumber": 5,
+          "Name": "milma low fat milk",
+          "Quantity": 1,
+          "Unit" :  "500ml",
+          "Department" : "Eggs & Diary Products",
+          "Notes" : "0"
+        },
+        {
+            "SerialNumber": 6,
+            "Name": "chicken-eggs",
+            "Quantity": 1,
+            "Unit" :  "no-6",
+            "Department" : "Eggs & Diary Products",
+            "Notes" : "0"
+          },
+          {
+            "SerialNumber": 7,
+            "Name": "coriander powder",
+            "Quantity": 1,
+            "Unit" :  "100gm",
+            "Department" : "Spices",
+            "Notes" : "0"
+          },
+          {
+            "SerialNumber": 8,
+            "Name": "carrots",
+            "Quantity": 1,
+            "Unit" :  "500gm",
+            "Department" : "Cereals",
+            "Notes" : "0"
+          },
+          {
+            "SerialNumber": 9,
+            "Name": "onion",
+            "Quantity": 1,
+            "Unit" :  "500gm",
+            "Department" : "Cereals",
+            "Notes" : "0"
+          },
+          {
+            "SerialNumber": 10,
+            "Name": "Soyabean",
+            "Quantity": 1,
+            "Unit" :  "500gm",
+            "Department" : "Dals & Pulses",
+            "Notes" : "0"
+          }
+    ]
+}
